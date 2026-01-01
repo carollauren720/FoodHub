@@ -15,17 +15,13 @@
 **FoodBridge** solves this by creating a **seamless digital bridge** between **restaurants** with surplus food and **NGOs** serving communities in need.
 
 ---
-<p align="center">Landing Page</p>
-<img width="1920" height="869" alt="Image" src="https://github.com/user-attachments/assets/98ecb711-02c9-48e7-b318-e791ca7de690" />
-<img width="1895" height="875" alt="Image" src="https://github.com/user-attachments/assets/1f559e36-768b-4407-8f5f-a31467f00e2f" />
+
 
 ---
-<p align="center">Register Page</p>
-<img width="1920" height="872" alt="Image" src="https://github.com/user-attachments/assets/de5808ba-a84c-4b79-8667-cc6841fabfc4" />
+
 
 ---
-<p align="center">SignIn Page</p>
-<img width="1920" height="863" alt="Image" src="https://github.com/user-attachments/assets/95a8ee54-4622-490c-97c6-5bbdafebe416" />
+
 
 ---
 
@@ -36,25 +32,21 @@
 - **Donation Dashboard** — Track all donations and impact metrics  
 - **Real-Time Status** — See when donations are claimed  
 - **Impact Tracking** — View kg saved, meals donated, and your impact score
-<img width="1920" height="857" alt="Image" src="https://github.com/user-attachments/assets/123473a8-abc4-4122-b2fe-1186fb3632cf" />
-<img width="1920" height="857" alt="Image" src="https://github.com/user-attachments/assets/f09bc19a-57e6-485f-8a35-accfc46fb0ae" />
+
 
 ### 🤝 For NGOs
 - **Food Discovery** — Browse donations via interactive map  
 - **Smart Recommendations** — AI suggests relevant donations  
 - **One-Click Claiming** — Schedule pickups easily  
 - **Direct Contact** — Connect directly with restaurants
-<img width="1920" height="868" alt="Image" src="https://github.com/user-attachments/assets/c940cfa8-56ff-43a3-acc7-651c43f2e3c3" />
-<img width="1920" height="857" alt="Image" src="https://github.com/user-attachments/assets/19b10e8d-3743-4585-82b5-6f9ac4326227" />
+
 
 ### 👨‍💼 For Admins
 - **User Management** — Verify and manage restaurants/NGOs  
 - **Analytics Dashboard** — View real-time statistics & insights  
 - **Activity Monitoring** — Track all platform activity  
 - **Donation Oversight** — Manage all donations across the system  
-<img width="1920" height="865" alt="Image" src="https://github.com/user-attachments/assets/071ab969-296a-4bb9-b480-82794cd2d656" />
-<img width="1920" height="867" alt="Image" src="https://github.com/user-attachments/assets/bd939a47-2585-4f0d-864f-c5308f329113" />
----
+
 
 ## 🌱 **Acknowledgments**
 
