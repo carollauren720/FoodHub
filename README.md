@@ -16,15 +16,6 @@
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## ✨ **Key Features**
 
 ### 🍽️ For Restaurants
